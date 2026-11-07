@@ -1,34 +1,29 @@
-# Hi, I'm Yerram Setti Sandeep
+# Hi there, I'm **Yerram Setti Sandeep** 👋
 
-### Aspiring Data Analyst | Data Science | Artificial Intelligence & Machine Learning
+I'm an aspiring Data Analyst and Artificial Intelligence enthusiast with an interest in transforming data into meaningful insights and developing intelligent, data-driven solutions. I enjoy learning new technologies, solving problems, and continuously improving my technical and analytical skills.
 
-I am a technology enthusiast with an interest in Data Analytics, Data Science, and Artificial Intelligence. I enjoy working with data, identifying meaningful patterns, solving analytical problems, and developing data-driven solutions.
+## 🎓 Education
 
-I continuously work on strengthening my technical knowledge and applying analytical and programming skills to real-world problems.
+- I am currently pursuing **M.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at **Madanapalle Institute of Technology and Science (MITS)**.
+- I have a background in computer science and a strong interest in Data Analytics, Artificial Intelligence, and Machine Learning.
 
-## Professional Skills
+## 💻 Skills
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA)
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Databases:** Microsoft SQL Server
-- **Tools & Platforms:** Excel, Jupyter Notebook, Google Colab, Git, GitHub
-- **AI & ML:** Machine Learning Fundamentals, Deep Learning Fundamentals, Generative AI Tools
+- I have knowledge of programming languages such as **Python and SQL**, along with libraries including Pandas, NumPy, Matplotlib, and Seaborn.
+- I have experience working with data visualization and business intelligence tools such as **Power BI, Tableau, and Microsoft Excel**.
+- I am familiar with database management using **SQL Server** and version control tools such as **Git and GitHub**.
+- I have an understanding of Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, and Machine Learning fundamentals.
+- I am also interested in Generative AI and exploring AI-powered tools to improve analytical workflows and productivity.
+- I enjoy continuously learning new technologies, developing practical skills, and collaborating with others to solve real-world problems.
 
-## Areas of Interest
+## 🚀 Goals
 
-- Data Analytics & Business Intelligence
-- Data Science & Machine Learning
-- Artificial Intelligence
-- Data Visualization & Reporting
-- Analytical Problem Solving
+- My goal is to build a professional career in **Data Analytics, Business Intelligence, and Artificial Intelligence**, where I can apply my technical knowledge and analytical skills to solve real-world business problems.
+- I aspire to continuously expand my knowledge, work with emerging technologies, and contribute to meaningful projects while growing as a technology professional.
+- I am always open to new learning opportunities, professional challenges, and collaborations that help me grow.
 
-## Professional Objective
+## 📫 Contact
 
-To build a career in the technology and analytics domain by applying my technical knowledge, analytical abilities, and problem-solving skills to develop effective, data-driven solutions while continuously learning and adapting to emerging technologies.
-
-## Connect With Me
-
-- **Email:** [yerramsettisandeep22@gmail.com](mailto:yerramsettisandeep22@gmail.com)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/yerram-setti-sandeep-7a3b2b228)
-- **GitHub:** [Yerramsettisandeep](https://github.com/Yerramsettisandeep)
+- You can reach me through my email [yerramsettisandeep22@gmail.com](mailto:yerramsettisandeep22@gmail.com).
+- Check out my LinkedIn Profile at [https://www.linkedin.com/in/yerram-setti-sandeep-7a3b2b228/](https://www.linkedin.com/in/yerram-setti-sandeep-7a3b2b228/).
+- Please visit my GitHub page to explore my technical work and contributions: [https://github.com/Yerramsettisandeep](https://github.com/Yerramsettisandeep).
